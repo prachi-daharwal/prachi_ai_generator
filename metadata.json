@@ -1,0 +1,6 @@
+{
+  "name": "Synapse - AI Study Notes Generator",
+  "description": "Convert long study materials into concise, structured academic notes with core summary, key takeaways, detailed breakdown, critical concepts, and study tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
